@@ -1,9 +1,11 @@
+module.exports = {
 // MySQL
-const var db_name=''
-const var db_user=''
-const var db_pass=''
-const var db_host=''
+db_name:'',
+db_user:'',
+db_pass:'',
+db_host:'',
 
 // API Keys
-const var last_fm_key=''
-const var audD_key=''
+last_fm_key:'',
+audD_key:''
+}
