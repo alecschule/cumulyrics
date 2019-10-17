@@ -1,1 +1,1 @@
-[alecschule.com/case-studies/cumulyrics]
+(alecschule.com/case-studies/cumulyrics)
