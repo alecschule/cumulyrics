@@ -1,3 +1,6 @@
+config.js
+# Default NodeJS .gitignore below
+
 # Logs
 logs
 *.log
